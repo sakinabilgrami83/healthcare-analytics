@@ -1,0 +1,121 @@
+Patient_ID,Age,Gender,Blood_Group,Hospital,Department,Doctor,Diagnosis,Treatment,Admission_Type,Length_of_Stay_Days,Insurance_Provider,Payment_Method,Billing_Amount_INR,Patient_Outcome
+P001,58,Male,A-,Care Hospitals,Cardiology,Dr. Anil Sharma,Heart Disease,Cardiac Treatment,Emergency,4,Star Health,Cash,50700,Improved
+P002,32,Male,O+,Apollo Hospitals,Dermatology,Dr. Arjun Das,Skin Allergy,Allergy Treatment,Outpatient,1,Niva Bupa,Debit Card,15300,Recovered
+P003,66,Male,A-,Max Healthcare,Gynecology,Dr. Meera Joshi,Fibroids,Gynecological Treatment,Emergency,4,Star Health,Debit Card,34000,Under Observation
+P004,56,Female,AB+,Yashoda Hospitals,Cardiology,Dr. Anil Sharma,Heart Disease,Cardiac Treatment,Elective,8,Self Pay,Cash,58600,Recovered
+P005,60,Male,O+,Yashoda Hospitals,General Medicine,Dr. Sneha Iyer,Diabetes,Diabetes Management,Outpatient,1,Self Pay,Debit Card,20700,Improved
+P006,41,Female,B+,Apollo Hospitals,Orthopedics,Dr. Rahul Verma,Back Pain,Pain Management,Emergency,12,Care Health,UPI,88000,Under Observation
+P007,77,Male,B-,Max Healthcare,Gynecology,Dr. Meera Joshi,Fibroids,Gynecological Treatment,Outpatient,1,Care Health,Debit Card,21500,Recovered
+P008,31,Female,AB+,Apollo Hospitals,Orthopedics,Dr. Rahul Verma,Back Pain,Pain Management,Elective,12,Self Pay,Insurance,79800,Under Observation
+P009,65,Female,A-,Max Healthcare,Dermatology,Dr. Riya Malhotra,Acne,Dermatology Treatment,Elective,4,ICICI Lombard,Credit Card,27400,Referred
+P010,56,Male,A+,Max Healthcare,Neurology,Dr. Kavya Nair,Stroke,Stroke Rehabilitation,Elective,9,Self Pay,Debit Card,78100,Recovered
+P011,36,Female,B+,Max Healthcare,Orthopedics,Dr. Neha Kapoor,Arthritis,Physiotherapy,Emergency,13,Self Pay,Insurance,108400,Improved
+P012,27,Female,A+,Yashoda Hospitals,Orthopedics,Dr. Neha Kapoor,Back Pain,Pain Management,Outpatient,1,Star Health,Cash,39900,Under Observation
+P013,74,Female,A-,Care Hospitals,Orthopedics,Dr. Rahul Verma,Fracture,Fracture Management,Emergency,11,Niva Bupa,Credit Card,96400,Improved
+P014,60,Female,B-,Apollo Hospitals,Dermatology,Dr. Arjun Das,Skin Allergy,Allergy Treatment,Emergency,15,Care Health,Debit Card,82600,Referred
+P015,75,Female,B-,Apollo Hospitals,Cardiology,Dr. Anil Sharma,Hypertension,Medication,Emergency,7,Star Health,Cash,54700,Improved
+P016,22,Male,B-,Apollo Hospitals,General Medicine,Dr. Sneha Iyer,Diabetes,Diabetes Management,Elective,6,ICICI Lombard,UPI,52300,Referred
+P017,30,Male,A-,Max Healthcare,Cardiology,Dr. Priya Mehta,Heart Disease,Cardiac Treatment,Elective,8,Self Pay,Debit Card,63100,Recovered
+P018,33,Male,O-,Apollo Hospitals,Orthopedics,Dr. Rahul Verma,Back Pain,Pain Management,Elective,8,Care Health,Insurance,55500,Recovered
+P019,21,Male,O+,Max Healthcare,Cardiology,Dr. Anil Sharma,Hypertension,Medication,Emergency,9,Care Health,Cash,70700,Referred
+P020,34,Female,O-,Apollo Hospitals,General Medicine,Dr. Amit Rao,Thyroid,Hormone Therapy,Elective,13,HDFC ERGO,Credit Card,96300,Recovered
+P021,55,Male,B+,Max Healthcare,Gynecology,Dr. Pooja Reddy,Fibroids,Gynecological Treatment,Emergency,11,ICICI Lombard,Cash,72200,Recovered
+P022,61,Male,A+,Max Healthcare,Neurology,Dr. Kavya Nair,Migraine,Medication,Outpatient,1,Self Pay,Insurance,40800,Under Observation
+P023,77,Female,O+,Apollo Hospitals,Orthopedics,Dr. Neha Kapoor,Back Pain,Pain Management,Outpatient,1,Care Health,Debit Card,32800,Recovered
+P024,18,Female,B-,Yashoda Hospitals,Dermatology,Dr. Riya Malhotra,Eczema,Skin Treatment,Outpatient,1,HDFC ERGO,Cash,12600,Improved
+P025,41,Female,A+,Yashoda Hospitals,Orthopedics,Dr. Rahul Verma,Arthritis,Physiotherapy,Outpatient,1,ICICI Lombard,Debit Card,35300,Recovered
+P026,74,Male,B-,Yashoda Hospitals,Gynecology,Dr. Meera Joshi,PCOS,Hormonal Treatment,Emergency,11,HDFC ERGO,Cash,57500,Recovered
+P027,58,Female,B+,Care Hospitals,General Medicine,Dr. Sneha Iyer,Diabetes,Diabetes Management,Emergency,14,Niva Bupa,Cash,59700,Recovered
+P028,22,Male,B+,Care Hospitals,Dermatology,Dr. Riya Malhotra,Skin Allergy,Allergy Treatment,Outpatient,1,Star Health,Debit Card,14900,Under Observation
+P029,75,Male,O+,Apollo Hospitals,General Medicine,Dr. Amit Rao,Fever,Medication,Elective,12,ICICI Lombard,Credit Card,53800,Referred
+P030,19,Male,AB+,Apollo Hospitals,Gynecology,Dr. Pooja Reddy,Fibroids,Gynecological Treatment,Outpatient,1,Care Health,Cash,23200,Referred
+P031,32,Male,B-,Max Healthcare,Neurology,Dr. Vikram Singh,Stroke,Stroke Rehabilitation,Emergency,14,Care Health,Debit Card,120600,Under Observation
+P032,73,Male,AB-,Max Healthcare,General Medicine,Dr. Amit Rao,Asthma,Inhalation Therapy,Elective,8,HDFC ERGO,Credit Card,64000,Under Observation
+P033,20,Male,A-,Care Hospitals,Dermatology,Dr. Riya Malhotra,Acne,Dermatology Treatment,Emergency,14,HDFC ERGO,Cash,61100,Referred
+P034,18,Male,AB-,Max Healthcare,General Medicine,Dr. Sneha Iyer,Thyroid,Hormone Therapy,Emergency,12,Niva Bupa,Debit Card,93600,Referred
+P035,38,Female,B+,Yashoda Hospitals,Gynecology,Dr. Meera Joshi,Fibroids,Gynecological Treatment,Elective,5,Niva Bupa,Cash,42300,Under Observation
+P036,36,Male,O-,Apollo Hospitals,Neurology,Dr. Kavya Nair,Parkinsons,Neurological Care,Elective,7,Self Pay,Credit Card,70000,Recovered
+P037,36,Female,B+,Max Healthcare,Cardiology,Dr. Anil Sharma,Hypertension,Medication,Elective,5,ICICI Lombard,UPI,59200,Recovered
+P038,47,Female,O+,Apollo Hospitals,Gynecology,Dr. Pooja Reddy,PCOS,Hormonal Treatment,Outpatient,1,Self Pay,Cash,27100,Recovered
+P039,67,Female,O-,Max Healthcare,Orthopedics,Dr. Rahul Verma,Fracture,Fracture Management,Outpatient,1,Star Health,UPI,38800,Improved
+P040,69,Female,O+,Care Hospitals,Gynecology,Dr. Pooja Reddy,Fibroids,Gynecological Treatment,Outpatient,1,Self Pay,UPI,28400,Referred
+P041,34,Male,B-,Yashoda Hospitals,Gynecology,Dr. Meera Joshi,Fibroids,Gynecological Treatment,Outpatient,1,Star Health,Debit Card,27500,Improved
+P042,35,Female,B-,Max Healthcare,General Medicine,Dr. Sneha Iyer,Diabetes,Diabetes Management,Emergency,5,Care Health,Debit Card,35800,Referred
+P043,44,Male,O+,Care Hospitals,Orthopedics,Dr. Rahul Verma,Arthritis,Physiotherapy,Elective,14,HDFC ERGO,Debit Card,93800,Referred
+P044,72,Female,B-,Care Hospitals,Dermatology,Dr. Riya Malhotra,Eczema,Skin Treatment,Outpatient,1,HDFC ERGO,UPI,16600,Referred
+P045,19,Female,B+,Max Healthcare,General Medicine,Dr. Sneha Iyer,Thyroid,Hormone Therapy,Outpatient,1,Niva Bupa,Insurance,26500,Recovered
+P046,23,Female,B-,Care Hospitals,Orthopedics,Dr. Neha Kapoor,Arthritis,Physiotherapy,Emergency,6,HDFC ERGO,UPI,54600,Under Observation
+P047,66,Female,AB-,Apollo Hospitals,General Medicine,Dr. Amit Rao,Diabetes,Diabetes Management,Elective,13,Self Pay,Cash,75000,Recovered
+P048,78,Male,A-,Apollo Hospitals,Orthopedics,Dr. Neha Kapoor,Fracture,Fracture Management,Elective,5,Self Pay,Debit Card,47800,Under Observation
+P049,28,Male,O+,Care Hospitals,Orthopedics,Dr. Rahul Verma,Arthritis,Physiotherapy,Emergency,2,Star Health,Insurance,42700,Improved
+P050,24,Female,AB-,Care Hospitals,Gynecology,Dr. Meera Joshi,PCOS,Hormonal Treatment,Outpatient,1,Star Health,Insurance,20400,Under Observation
+P051,18,Female,B+,Care Hospitals,Neurology,Dr. Vikram Singh,Migraine,Medication,Elective,7,Self Pay,Insurance,75200,Under Observation
+P052,57,Female,AB-,Apollo Hospitals,Neurology,Dr. Vikram Singh,Stroke,Stroke Rehabilitation,Outpatient,1,HDFC ERGO,UPI,41300,Improved
+P053,66,Female,AB-,Apollo Hospitals,Dermatology,Dr. Arjun Das,Eczema,Skin Treatment,Elective,7,ICICI Lombard,Debit Card,27400,Under Observation
+P054,39,Female,B-,Max Healthcare,Dermatology,Dr. Riya Malhotra,Eczema,Skin Treatment,Outpatient,1,Self Pay,UPI,5900,Referred
+P055,53,Male,A-,Yashoda Hospitals,Gynecology,Dr. Pooja Reddy,Fibroids,Gynecological Treatment,Elective,9,Care Health,Credit Card,54200,Under Observation
+P056,60,Female,AB-,Yashoda Hospitals,Neurology,Dr. Kavya Nair,Parkinsons,Neurological Care,Elective,8,HDFC ERGO,Debit Card,85400,Under Observation
+P057,32,Male,B-,Apollo Hospitals,Gynecology,Dr. Meera Joshi,PCOS,Hormonal Treatment,Emergency,13,HDFC ERGO,Insurance,79000,Under Observation
+P058,24,Male,B+,Yashoda Hospitals,General Medicine,Dr. Amit Rao,Fever,Medication,Elective,6,Star Health,Insurance,37000,Under Observation
+P059,62,Male,O-,Care Hospitals,Gynecology,Dr. Meera Joshi,Fibroids,Gynecological Treatment,Emergency,2,HDFC ERGO,Credit Card,29300,Recovered
+P060,34,Female,B+,Apollo Hospitals,Cardiology,Dr. Priya Mehta,Hypertension,Medication,Elective,3,Star Health,Credit Card,42400,Recovered
+P061,53,Female,O+,Care Hospitals,Dermatology,Dr. Arjun Das,Eczema,Skin Treatment,Outpatient,1,HDFC ERGO,Insurance,12900,Referred
+P062,37,Male,AB+,Max Healthcare,Dermatology,Dr. Riya Malhotra,Eczema,Skin Treatment,Emergency,14,ICICI Lombard,Credit Card,51300,Recovered
+P063,28,Male,B-,Yashoda Hospitals,Neurology,Dr. Kavya Nair,Stroke,Stroke Rehabilitation,Elective,9,Self Pay,UPI,65700,Recovered
+P064,61,Male,AB+,Apollo Hospitals,General Medicine,Dr. Amit Rao,Fever,Medication,Elective,10,Star Health,Credit Card,49600,Under Observation
+P065,56,Female,AB+,Care Hospitals,Neurology,Dr. Kavya Nair,Migraine,Medication,Elective,6,Star Health,Insurance,70700,Recovered
+P066,74,Female,A+,Yashoda Hospitals,Gynecology,Dr. Pooja Reddy,Fibroids,Gynecological Treatment,Elective,2,ICICI Lombard,UPI,24400,Referred
+P067,76,Female,O-,Yashoda Hospitals,Orthopedics,Dr. Neha Kapoor,Back Pain,Pain Management,Elective,15,HDFC ERGO,Debit Card,94200,Recovered
+P068,72,Male,A+,Care Hospitals,General Medicine,Dr. Amit Rao,Thyroid,Hormone Therapy,Elective,6,HDFC ERGO,Debit Card,50800,Under Observation
+P069,25,Female,A+,Apollo Hospitals,Dermatology,Dr. Arjun Das,Skin Allergy,Allergy Treatment,Elective,10,Niva Bupa,UPI,51600,Referred
+P070,66,Male,A-,Max Healthcare,Orthopedics,Dr. Rahul Verma,Arthritis,Physiotherapy,Elective,6,Self Pay,Credit Card,58700,Under Observation
+P071,53,Male,O-,Max Healthcare,Dermatology,Dr. Riya Malhotra,Acne,Dermatology Treatment,Emergency,15,Care Health,Debit Card,96400,Under Observation
+P072,44,Female,B+,Max Healthcare,Neurology,Dr. Kavya Nair,Migraine,Medication,Elective,4,Care Health,Debit Card,51400,Under Observation
+P073,70,Male,B+,Care Hospitals,General Medicine,Dr. Sneha Iyer,Asthma,Inhalation Therapy,Outpatient,1,HDFC ERGO,Debit Card,25800,Referred
+P074,47,Female,A+,Yashoda Hospitals,Orthopedics,Dr. Neha Kapoor,Back Pain,Pain Management,Emergency,8,Self Pay,UPI,59300,Referred
+P075,60,Male,O-,Max Healthcare,Neurology,Dr. Kavya Nair,Migraine,Medication,Emergency,11,Star Health,Credit Card,76000,Referred
+P076,73,Male,O+,Max Healthcare,Cardiology,Dr. Priya Mehta,Heart Disease,Cardiac Treatment,Outpatient,1,Self Pay,Insurance,36100,Referred
+P077,38,Female,B-,Max Healthcare,Dermatology,Dr. Arjun Das,Skin Allergy,Allergy Treatment,Elective,5,Star Health,Cash,31100,Referred
+P078,28,Female,AB-,Care Hospitals,Cardiology,Dr. Anil Sharma,Hypertension,Medication,Emergency,2,ICICI Lombard,Insurance,40200,Referred
+P079,54,Male,O-,Apollo Hospitals,Orthopedics,Dr. Rahul Verma,Fracture,Fracture Management,Emergency,15,Care Health,Debit Card,89900,Referred
+P080,34,Male,AB-,Yashoda Hospitals,Neurology,Dr. Kavya Nair,Stroke,Stroke Rehabilitation,Elective,4,Self Pay,Debit Card,50400,Referred
+P081,72,Female,O+,Yashoda Hospitals,Orthopedics,Dr. Neha Kapoor,Arthritis,Physiotherapy,Outpatient,1,Self Pay,Debit Card,31800,Recovered
+P082,71,Female,O-,Yashoda Hospitals,General Medicine,Dr. Amit Rao,Diabetes,Diabetes Management,Elective,12,Niva Bupa,Debit Card,82000,Improved
+P083,58,Male,A-,Max Healthcare,Dermatology,Dr. Arjun Das,Acne,Dermatology Treatment,Elective,13,Care Health,Cash,76500,Under Observation
+P084,64,Male,B+,Yashoda Hospitals,Cardiology,Dr. Priya Mehta,Heart Disease,Cardiac Treatment,Emergency,8,ICICI Lombard,Debit Card,56000,Referred
+P085,69,Female,B+,Apollo Hospitals,Gynecology,Dr. Meera Joshi,Fibroids,Gynecological Treatment,Outpatient,1,Niva Bupa,Debit Card,20600,Recovered
+P086,68,Female,O+,Yashoda Hospitals,Cardiology,Dr. Anil Sharma,Heart Disease,Cardiac Treatment,Elective,9,Self Pay,Credit Card,67300,Referred
+P087,19,Female,AB+,Care Hospitals,Dermatology,Dr. Riya Malhotra,Skin Allergy,Allergy Treatment,Elective,12,ICICI Lombard,Cash,79000,Recovered
+P088,37,Female,O-,Yashoda Hospitals,Cardiology,Dr. Priya Mehta,Hypertension,Medication,Emergency,10,Niva Bupa,Credit Card,63900,Referred
+P089,59,Male,B-,Care Hospitals,Neurology,Dr. Kavya Nair,Parkinsons,Neurological Care,Elective,6,ICICI Lombard,Debit Card,53800,Recovered
+P090,61,Female,A-,Care Hospitals,Dermatology,Dr. Riya Malhotra,Eczema,Skin Treatment,Elective,8,Self Pay,Credit Card,33100,Recovered
+P091,21,Female,B-,Apollo Hospitals,Orthopedics,Dr. Rahul Verma,Fracture,Fracture Management,Outpatient,1,HDFC ERGO,Credit Card,29400,Recovered
+P092,35,Male,B+,Max Healthcare,Orthopedics,Dr. Neha Kapoor,Back Pain,Pain Management,Emergency,4,ICICI Lombard,Insurance,37200,Under Observation
+P093,19,Male,A-,Care Hospitals,General Medicine,Dr. Sneha Iyer,Diabetes,Diabetes Management,Emergency,8,HDFC ERGO,Insurance,52000,Recovered
+P094,46,Male,AB+,Care Hospitals,Dermatology,Dr. Riya Malhotra,Skin Allergy,Allergy Treatment,Outpatient,1,Star Health,UPI,15700,Referred
+P095,45,Male,AB-,Apollo Hospitals,Neurology,Dr. Vikram Singh,Parkinsons,Neurological Care,Outpatient,1,ICICI Lombard,Debit Card,36100,Under Observation
+P096,42,Female,B-,Care Hospitals,Neurology,Dr. Kavya Nair,Parkinsons,Neurological Care,Elective,3,ICICI Lombard,UPI,51100,Under Observation
+P097,70,Female,AB-,Yashoda Hospitals,Neurology,Dr. Kavya Nair,Stroke,Stroke Rehabilitation,Outpatient,1,ICICI Lombard,UPI,42700,Recovered
+P098,23,Male,A+,Yashoda Hospitals,Cardiology,Dr. Anil Sharma,Heart Disease,Cardiac Treatment,Emergency,13,Care Health,Debit Card,81400,Referred
+P099,73,Male,B+,Care Hospitals,General Medicine,Dr. Amit Rao,Asthma,Inhalation Therapy,Elective,11,Star Health,Debit Card,66800,Under Observation
+P100,25,Female,A+,Yashoda Hospitals,Dermatology,Dr. Riya Malhotra,Skin Allergy,Allergy Treatment,Outpatient,1,ICICI Lombard,Debit Card,16100,Under Observation
+P101,76,Female,A-,Apollo Hospitals,General Medicine,Dr. Amit Rao,Diabetes,Diabetes Management,Emergency,4,Star Health,Insurance,38800,Improved
+P102,42,Female,A-,Max Healthcare,Neurology,Dr. Vikram Singh,Stroke,Stroke Rehabilitation,Emergency,6,ICICI Lombard,Insurance,70000,Recovered
+P103,61,Male,O+,Yashoda Hospitals,General Medicine,Dr. Amit Rao,Thyroid,Hormone Therapy,Elective,9,Niva Bupa,Cash,65100,Under Observation
+P104,45,Male,O+,Max Healthcare,General Medicine,Dr. Amit Rao,Thyroid,Hormone Therapy,Elective,6,ICICI Lombard,Debit Card,32700,Improved
+P105,67,Male,B+,Apollo Hospitals,General Medicine,Dr. Sneha Iyer,Asthma,Inhalation Therapy,Emergency,2,Niva Bupa,Credit Card,29100,Under Observation
+P106,22,Female,AB-,Care Hospitals,Gynecology,Dr. Meera Joshi,PCOS,Hormonal Treatment,Elective,9,Self Pay,UPI,72700,Under Observation
+P107,25,Female,A-,Care Hospitals,Cardiology,Dr. Anil Sharma,Heart Disease,Cardiac Treatment,Emergency,11,ICICI Lombard,UPI,81100,Referred
+P108,51,Male,B+,Max Healthcare,Neurology,Dr. Vikram Singh,Stroke,Stroke Rehabilitation,Outpatient,1,Niva Bupa,Insurance,40800,Improved
+P109,75,Female,B+,Apollo Hospitals,General Medicine,Dr. Amit Rao,Fever,Medication,Emergency,4,ICICI Lombard,UPI,30400,Referred
+P110,66,Female,B+,Care Hospitals,Gynecology,Dr. Pooja Reddy,Fibroids,Gynecological Treatment,Outpatient,1,Care Health,UPI,25200,Under Observation
+P111,68,Female,O-,Max Healthcare,Dermatology,Dr. Riya Malhotra,Skin Allergy,Allergy Treatment,Elective,3,HDFC ERGO,Debit Card,19800,Recovered
+P112,59,Male,A+,Care Hospitals,Dermatology,Dr. Riya Malhotra,Eczema,Skin Treatment,Elective,9,HDFC ERGO,Insurance,53900,Referred
+P113,50,Male,B+,Max Healthcare,Cardiology,Dr. Anil Sharma,Heart Disease,Cardiac Treatment,Emergency,15,Self Pay,UPI,86900,Referred
+P114,51,Male,AB-,Max Healthcare,General Medicine,Dr. Sneha Iyer,Asthma,Inhalation Therapy,Outpatient,1,Star Health,Debit Card,23700,Recovered
+P115,53,Female,B+,Yashoda Hospitals,General Medicine,Dr. Amit Rao,Asthma,Inhalation Therapy,Outpatient,1,Niva Bupa,Credit Card,28000,Under Observation
+P116,37,Female,O+,Yashoda Hospitals,Orthopedics,Dr. Rahul Verma,Back Pain,Pain Management,Outpatient,1,Self Pay,Insurance,32900,Recovered
+P117,59,Female,AB-,Care Hospitals,Dermatology,Dr. Riya Malhotra,Acne,Dermatology Treatment,Emergency,6,ICICI Lombard,Credit Card,23900,Improved
+P118,22,Female,O+,Apollo Hospitals,Cardiology,Dr. Anil Sharma,Hypertension,Medication,Elective,14,ICICI Lombard,Insurance,99500,Improved
+P119,64,Female,AB+,Care Hospitals,Cardiology,Dr. Anil Sharma,Heart Disease,Cardiac Treatment,Elective,13,Niva Bupa,Credit Card,79400,Under Observation
+P120,69,Female,AB+,Care Hospitals,Orthopedics,Dr. Neha Kapoor,Arthritis,Physiotherapy,Elective,11,ICICI Lombard,Credit Card,79900,Improved
